@@ -1,0 +1,445 @@
+ID,creator,age,stim,inverted,category1,category2,category3,confidence,creativity,filepath
+1001,child,5.0,G,TRUE,princess,heart,writing,2.0,3,../data/children/stimuli_G/1001.png
+1001,child,5.0,I,FALSE,ninja(s),house,door,2.0,3.0,../data/children/stimuli_I/1001.png
+1001,child,5.0,R,FALSE,ninja(s),house,door,2.0,3.0,../data/children/stimuli_R/1001.png
+1002,child,5.0,G,FALSE,creature/monster,circles,frown,2.0,2,../data/children/stimuli_G/1002.png
+1002,child,5.0,I,TRUE,creature/monster,hands,,2.0,3.0,../data/children/stimuli_I/1002.png
+1002,child,5.0,R,FALSE,ninja(s),house,hands,2.0,3.0,../data/children/stimuli_R/1002.png
+1003,child,5.0,G,TRUE,princess,house,flowers,2.0,4,../data/children/stimuli_G/1003.png
+1003,child,5.0,I,FALSE,creature/monster,flowers,arc,2.0,3.0,../data/children/stimuli_I/1003.png
+1003,child,5.0,R,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/1003.png
+1004,child,4.0,G,TRUE,(smiley) face,,,2.0,1,../data/children/stimuli_G/1004.png
+1004,child,4.0,I,FALSE,abstract doodle/hard to interpret,completing,,2.0,0.0,../data/children/stimuli_I/1004.png
+1004,child,4.0,R,FALSE,house,door,,2.0,1.0,../data/children/stimuli_R/1004.png
+1005,child,4.0,G,TRUE,(smiley) face,,,2.0,1,../data/children/stimuli_G/1005.png
+1005,child,4.0,I,FALSE,creature/monster,lines,,2.0,2.0,../data/children/stimuli_I/1005.png
+1005,child,4.0,R,FALSE,house,person,smoke,1.0,2.0,../data/children/stimuli_R/1005.png
+1006,child,5.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/1006.png
+1006,child,5.0,I,TRUE,house,door,,2.0,2.0,../data/children/stimuli_I/1006.png
+1006,child,5.0,R,FALSE,abstract doodle/hard to interpret,,,1.0,0.0,../data/children/stimuli_R/1006.png
+1007,child,5.0,G,TRUE,house,flower,door,1.0,2,../data/children/stimuli_G/1007.png
+1007,child,5.0,I,FALSE,door,lines,,1.0,1.0,../data/children/stimuli_I/1007.png
+1007,child,5.0,R,TRUE,baby,lines,,1.0,1.0,../data/children/stimuli_R/1007.png
+1008,child,7.0,G,TRUE,(smiley) face,ears,hair,2.0,3,../data/children/stimuli_G/1008.png
+1008,child,7.0,I,FALSE,abstract doodle/hard to interpret,lines,,1.0,0.0,../data/children/stimuli_I/1008.png
+1008,child,7.0,R,FALSE,house,fire,,2.0,2.0,../data/children/stimuli_R/1008.png
+1009,child,6.0,G,TRUE,person(s),boat,music,2.0,3,../data/children/stimuli_G/1009.png
+1009,child,6.0,I,FALSE,person,house,music,2.0,2.0,../data/children/stimuli_I/1009.png
+1009,child,6.0,R,FALSE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_R/1009.png
+1010,child,4.0,G,TRUE,person,heart,hair,2.0,3,../data/children/stimuli_G/1010.png
+1010,child,4.0,I,TRUE,(smiley) face,crown,hair,2.0,2.0,../data/children/stimuli_I/1010.png
+1010,child,4.0,R,FALSE,house,,,2.0,1.0,../data/children/stimuli_R/1010.png
+1011,child,5.0,G,TRUE,creature/monster,,,2.0,2,../data/children/stimuli_G/1011.png
+1011,child,5.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_I/1011.png
+1011,child,5.0,R,FALSE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_R/1011.png
+1012,child,6.0,G,TRUE,person(s),,,1.0,2,../data/children/stimuli_G/1012.png
+1012,child,6.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/1012.png
+1012,child,6.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/1012.png
+1013,child,5.0,G,FALSE,house,person(s),,2.0,3,../data/children/stimuli_G/1013.png
+1013,child,5.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/1013.png
+1013,child,5.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/1013.png
+1014,child,5.0,G,FALSE,person,hands,(smiley) face,2.0,2,../data/children/stimuli_G/1014.png
+1014,child,5.0,I,FALSE,person,sun,butterfly,2.0,3.0,../data/children/stimuli_I/1014.png
+1014,child,5.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,0.0,../data/children/stimuli_R/1014.png
+1015,child,6.0,G,TRUE,creature/monster,frown,,2.0,3,../data/children/stimuli_G/1015.png
+1015,child,6.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_I/1015.png
+1015,child,6.0,R,FALSE,creature/monster,(smiley) face,,2.0,2.0,../data/children/stimuli_R/1015.png
+1016,child,5.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/1016.png
+1016,child,5.0,I,FALSE,house,circles,,1.0,2.0,../data/children/stimuli_I/1016.png
+1016,child,5.0,R,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/1016.png
+1017,child,5.0,G,FALSE,person,hands,,2.0,2,../data/children/stimuli_G/1017.png
+1017,child,5.0,I,FALSE,popsicle,lines,,2.0,2.0,../data/children/stimuli_I/1017.png
+1017,child,5.0,R,FALSE,house,door,,2.0,1.0,../data/children/stimuli_R/1017.png
+1018,child,6.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/1018.png
+1018,child,6.0,I,FALSE,creature/monster,teeth,,2.0,2.0,../data/children/stimuli_I/1018.png
+1018,child,6.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/1018.png
+1019,child,6.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/1019.png
+1019,child,6.0,I,FALSE,popsicle,lines,,2.0,2.0,../data/children/stimuli_I/1019.png
+1019,child,6.0,R,FALSE,house,,,2.0,1.0,../data/children/stimuli_R/1019.png
+1020,child,6.0,G,FALSE,abstract doodle/hard to interpret,circles,,1.0,1,../data/children/stimuli_G/1020.png
+1020,child,6.0,I,FALSE,abstract doodle/hard to interpret,star,,2.0,1.0,../data/children/stimuli_I/1020.png
+1020,child,6.0,R,TRUE,ice cream cone,lines,,1.0,2.0,../data/children/stimuli_R/1020.png
+1022,child,5.0,G,FALSE,creature/monster,,,1.0,2,../data/children/stimuli_G/1022.png
+1022,child,5.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_I/1022.png
+1022,child,5.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/1022.png
+1023,child,6.0,G,FALSE,umbrella,rain,,1.0,2,../data/children/stimuli_G/1023.png
+1023,child,6.0,I,FALSE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_I/1023.png
+1023,child,6.0,R,FALSE,house,sun,,2.0,2.0,../data/children/stimuli_R/1023.png
+1024,child,5.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/1024.png
+1024,child,5.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/1024.png
+1024,child,5.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/1024.png
+1025,child,6.0,G,TRUE,abstract doodle/hard to interpret,circles,lines,1.0,1,../data/children/stimuli_G/1025.png
+1025,child,6.0,I,FALSE,house,person,door,2.0,3.0,../data/children/stimuli_I/1025.png
+1025,child,6.0,R,FALSE,rocket,star(s),planet,2.0,3.0,../data/children/stimuli_R/1025.png
+1026,child,6.0,G,FALSE,creature/monster,writing,,1.0,2,../data/children/stimuli_G/1026.png
+1026,child,6.0,I,FALSE,creature/monster,,,1.0,1.0,../data/children/stimuli_I/1026.png
+1026,child,6.0,R,FALSE,creature/monster,,,1.0,1.0,../data/children/stimuli_R/1026.png
+1027,child,6.0,G,TRUE,submarine,,,2.0,3,../data/children/stimuli_G/1027.png
+1027,child,6.0,I,FALSE,(smiley) face,music,,2.0,2.0,../data/children/stimuli_I/1027.png
+1027,child,6.0,R,FALSE,rocket,star(s),planet,2.0,3.0,../data/children/stimuli_R/1027.png
+1028,child,6.0,G,TRUE,(smiley) face,lines ,,1.0,1,../data/children/stimuli_G/1028.png
+1028,child,6.0,I,FALSE,robot,(smiley) face,,1.0,2.0,../data/children/stimuli_I/1028.png
+1028,child,6.0,R,TRUE,rocket,,,1.0,2.0,../data/children/stimuli_R/1028.png
+1029,child,5.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/1029.png
+1029,child,5.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/1029.png
+1029,child,5.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/1029.png
+2001,child,4.0,G,FALSE,abstract doodle/hard to interpret,encircled,,2.0,0,../data/children/stimuli_G/2001.png
+2001,child,4.0,I,FALSE,abstract doodle/hard to interpret,encircled,,2.0,0.0,../data/children/stimuli_I/2001.png
+2001,child,4.0,R,TRUE,abstract doodle/hard to interpret,encircled,,2.0,0.0,../data/children/stimuli_R/2001.png
+2002,child,4.0,G,FALSE,creature/monster,cricles,,1.0,1,../data/children/stimuli_G/2002.png
+2002,child,4.0,I,FALSE,creature/monster,,,1.0,1.0,../data/children/stimuli_I/2002.png
+2002,child,4.0,R,TRUE,creature/monster,,,1.0,1.0,../data/children/stimuli_R/2002.png
+2003,child,5.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,0,../data/children/stimuli_G/2003.png
+2003,child,5.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_I/2003.png
+2003,child,5.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/2003.png
+2004,child,4.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,0,../data/children/stimuli_G/2004.png
+2004,child,4.0,I,FALSE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_I/2004.png
+2004,child,4.0,R,TRUE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_R/2004.png
+2009,child,5.0,G,FALSE,mushroom,,,1.0,2,../data/children/stimuli_G/2009.png
+2009,child,5.0,I,FALSE,blank,,,2.0,10.0,../data/children/stimuli_I/2009.png
+2009,child,5.0,R,TRUE,blank,,,2.0,10.0,../data/children/stimuli_R/2009.png
+2010,child,5.0,G,FALSE,abstract doodle/hard to interpret,lines,,1.0,1,../data/children/stimuli_G/2010.png
+2010,child,5.0,I,FALSE,(smiley) face,,,1.0,2.0,../data/children/stimuli_I/2010.png
+2010,child,5.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/2010.png
+2011,child,6.0,G,FALSE,bird,wings,,1.0,2,../data/children/stimuli_G/2011.png
+2011,child,6.0,I,FALSE,person(s),,,2.0,2.0,../data/children/stimuli_I/2011.png
+2011,child,6.0,R,TRUE,abstract doodle/hard to interpret,completing,,2.0,0.0,../data/children/stimuli_R/2011.png
+2012,child,5.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,0,../data/children/stimuli_G/2012.png
+2012,child,5.0,I,FALSE,person(s),,,2.0,2.0,../data/children/stimuli_I/2012.png
+2012,child,5.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/2012.png
+2013,child,5.0,G,TRUE,pregancy,creature/monster,,1.0,2,../data/children/stimuli_G/2013.png
+2013,child,5.0,I,TRUE,pregnancy,baby,,2.0,3.0,../data/children/stimuli_I/2013.png
+2013,child,5.0,R,FALSE,preganacy,baby,,2.0,3.0,../data/children/stimuli_R/2013.png
+2014,child,6.0,G,FALSE,mushroom,circles,,1.0,1,../data/children/stimuli_G/2014.png
+2014,child,6.0,I,FALSE,creature/monster,hands,,2.0,2.0,../data/children/stimuli_I/2014.png
+2014,child,6.0,R,TRUE,person(s),hands,ears,2.0,2.0,../data/children/stimuli_R/2014.png
+2015,child,4.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,0,../data/children/stimuli_G/2015.png
+2015,child,4.0,I,FALSE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_I/2015.png
+2015,child,4.0,R,TRUE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_R/2015.png
+2016,child,4.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/2016.png
+2016,child,4.0,I,FALSE,abstract doodle/hard to interpret,,,1.0,0.0,../data/children/stimuli_I/2016.png
+2016,child,4.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/2016.png
+2017,child,4.0,G,TRUE,boat,(smiley) face,rainbow,1.0,2,../data/children/stimuli_G/2017.png
+2017,child,4.0,I,FALSE,person,,,1.0,1.0,../data/children/stimuli_I/2017.png
+2017,child,4.0,R,FALSE,(smiley) face,,,1.0,1.0,../data/children/stimuli_R/2017.png
+2018,child,5.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/2018.png
+2018,child,5.0,I,FALSE,blank,,,2.0,10.0,../data/children/stimuli_I/2018.png
+2018,child,5.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/2018.png
+3001,child,4.0,G,FALSE,blank,,,1.0,10,../data/children/stimuli_G/3001.png
+3001,child,4.0,I,FALSE,blank,,,1.0,10.0,../data/children/stimuli_I/3001.png
+3001,child,4.0,R,TRUE,blank,,,1.0,10.0,../data/children/stimuli_R/3001.png
+3002,child,6.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/3002.png
+3002,child,6.0,I,FALSE,baby,diaper,(smiley) face,2.0,2.0,../data/children/stimuli_I/3002.png
+3002,child,6.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/3002.png
+3005,child,6.0,G,FALSE,person(s),parachute,,1.0,3,../data/children/stimuli_G/3005.png
+3005,child,6.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/3005.png
+3005,child,6.0,R,TRUE,creature/monster,circles,hands,2.0,2.0,../data/children/stimuli_R/3005.png
+3007,child,4.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/3007.png
+3007,child,4.0,I,FALSE,house,sun,person(s),2.0,2.0,../data/children/stimuli_I/3007.png
+3007,child,4.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,0.0,../data/children/stimuli_R/3007.png
+3008,child,6.0,G,FALSE,person(s),hands,,2.0,3,../data/children/stimuli_G/3008.png
+3008,child,6.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/3008.png
+3008,child,6.0,R,TRUE,creature/monster,feelers,,2.0,2.0,../data/children/stimuli_R/3008.png
+3009,child,6.0,G,TRUE,creature/monster,teeth,,1.0,2,../data/children/stimuli_G/3009.png
+3009,child,6.0,I,FALSE,lock,,,2.0,2.0,../data/children/stimuli_I/3009.png
+3009,child,6.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/3009.png
+3010,child,4.0,G,TRUE,faces,,,1.0,1,../data/children/stimuli_G/3010.png
+3010,child,4.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/3010.png
+3010,child,4.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/3010.png
+3011,child,5.0,G,TRUE,person(s),boat,,2.0,2,../data/children/stimuli_G/3011.png
+3011,child,5.0,I,FALSE,person(s),chair,,2.0,4.0,../data/children/stimuli_I/3011.png
+3011,child,5.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/3011.png
+3013,child,5.0,G,FALSE,person(s),encircled,hair ,2.0,2,../data/children/stimuli_G/3013.png
+3013,child,5.0,I,FALSE,person(s),encircled,,2.0,2.0,../data/children/stimuli_I/3013.png
+3013,child,5.0,R,TRUE,person,encircled,,2.0,2.0,../data/children/stimuli_R/3013.png
+3016,child,4.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/3016.png
+3016,child,4.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/3016.png
+3016,child,4.0,R,FALSE,(smiley) face,lines,hat,2.0,2.0,../data/children/stimuli_R/3016.png
+3017,child,4.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/3017.png
+3017,child,4.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/3017.png
+3017,child,4.0,R,TRUE,completing,encircled,,2.0,0.0,../data/children/stimuli_R/3017.png
+3018,child,5.0,G,FALSE,mushroom,circles,,1.0,1,../data/children/stimuli_G/3018.png
+3018,child,5.0,I,FALSE,(smiley) face ,door,tongue,1.0,2.0,../data/children/stimuli_I/3018.png
+3018,child,5.0,R,TRUE,(smiley) face,ice cream cone,tongue,1.0,2.0,../data/children/stimuli_R/3018.png
+3020,child,7.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/3020.png
+3020,child,7.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_I/3020.png
+3020,child,7.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/3020.png
+3022,child,4.0,G,FALSE,abstract doodle/hard to interpret,heart,,2.0,0,../data/children/stimuli_G/3022.png
+3022,child,4.0,I,FALSE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_I/3022.png
+3022,child,4.0,R,TRUE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_R/3022.png
+3023,child,4.0,G,FALSE,tracing,,,2.0,20,../data/children/stimuli_G/3023.png
+3023,child,4.0,I,FALSE,tracing,,,2.0,20.0,../data/children/stimuli_I/3023.png
+3023,child,4.0,R,TRUE,tracing,,,1.0,20.0,../data/children/stimuli_R/3023.png
+3024,child,4.0,G,FALSE,completing,,,1.0,0,../data/children/stimuli_G/3024.png
+3024,child,4.0,I,FALSE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_I/3024.png
+3024,child,4.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/3024.png
+3025,child,4.0,G,FALSE,abstract doodle/hard to interpret,eye,lines,2.0,10,../data/children/stimuli_G/3025.png
+3025,child,4.0,I,FALSE,abstract doodle/hard to interpret,boat,,2.0,10.0,../data/children/stimuli_I/3025.png
+3025,child,4.0,R,FALSE,abstract doodle/hard to interpret,lines,,2.0,10.0,../data/children/stimuli_R/3025.png
+3026,child,5.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/3026.png
+3026,child,5.0,I,TRUE,(smiley) face,circles,tongue,2.0,2.0,../data/children/stimuli_I/3026.png
+3026,child,5.0,R,TRUE,(smiley) face,tongue,wings,2.0,2.0,../data/children/stimuli_R/3026.png
+3028,child,4.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/3028.png
+3028,child,4.0,I,FALSE,creature/monster,,,2.0,2.0,../data/children/stimuli_I/3028.png
+3028,child,4.0,R,FALSE,creature/monster,,,1.0,1.0,../data/children/stimuli_R/3028.png
+4001,child,6.0,G,FALSE,mushroom,circles,heart,1.0,1,../data/children/stimuli_G/4001.png
+4001,child,6.0,I,FALSE,abstract doodle/hard to interpret,heart,,1.0,1.0,../data/children/stimuli_I/4001.png
+4001,child,6.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/4001.png
+4002,child,6.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/4002.png
+4002,child,6.0,I,FALSE,completing,,,1.0,1.0,../data/children/stimuli_I/4002.png
+4002,child,6.0,R,FALSE,completing,,,1.0,1.0,../data/children/stimuli_R/4002.png
+4003,child,6.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/4003.png
+4003,child,6.0,I,FALSE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_I/4003.png
+4003,child,6.0,R,FALSE,abstract doodle/hard to interpret,lines,,1.0,1.0,../data/children/stimuli_R/4003.png
+4004,child,5.0,G,TRUE,(smiley) face,,,2.0,2,../data/children/stimuli_G/4004.png
+4004,child,5.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/4004.png
+4004,child,5.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_R/4004.png
+4005,child,7.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/4005.png
+4005,child,7.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/4005.png
+4005,child,7.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/4005.png
+4006,child,6.0,G,FALSE,abstract doodle/hard to interpret,tic/tac/toe,,2.0,1,../data/children/stimuli_G/4006.png
+4006,child,6.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_I/4006.png
+4006,child,6.0,R,TRUE,abstract doodle/hard to interpret,lines,,2.0,1.0,../data/children/stimuli_R/4006.png
+4007,child,9.0,G,TRUE,(smiley) face,glasses,,2.0,4,../data/children/stimuli_G/4007.png
+4007,child,9.0,I,TRUE,angel,wings,,2.0,3.0,../data/children/stimuli_I/4007.png
+4007,child,9.0,R,FALSE,house,person(s),door,2.0,3.0,../data/children/stimuli_R/4007.png
+4008,child,7.0,G,FALSE,mushroom,door,copying,2.0,2,../data/children/stimuli_G/4008.png
+4008,child,7.0,I,FALSE,house,door,copying,2.0,2.0,../data/children/stimuli_I/4008.png
+4008,child,7.0,R,TRUE,baby,diaper,,2.0,4.0,../data/children/stimuli_R/4008.png
+4009,child,5.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,10,../data/children/stimuli_G/4009.png
+4009,child,5.0,I,FALSE,abstract doodle/hard to interpret,,,1.0,10.0,../data/children/stimuli_I/4009.png
+4009,child,5.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,10.0,../data/children/stimuli_R/4009.png
+4010,child,4.0,G,TRUE,(smiley) face,numbers,ears,1.0,1,../data/children/stimuli_G/4010.png
+4010,child,4.0,I,FALSE,abstract doodle/hard to interpret,circles,lines,1.0,1.0,../data/children/stimuli_I/4010.png
+4010,child,4.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,0.0,../data/children/stimuli_R/4010.png
+4011,child,4.0,G,FALSE,creature/monster,,,1.0, ,../data/children/stimuli_G/4011.png
+4011,child,4.0,I,FALSE,creature/monster,circles,,1.0,1.0,../data/children/stimuli_I/4011.png
+4011,child,4.0,R,FALSE,creature/monster,circles,,1.0,1.0,../data/children/stimuli_R/4011.png
+4012,child,6.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,0,../data/children/stimuli_G/4012.png
+4012,child,6.0,I,FALSE,(smiley) face,,,2.0,1.0,../data/children/stimuli_I/4012.png
+4012,child,6.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/4012.png
+4013,child,7.0,G,FALSE,mushroom,,,1.0,2,../data/children/stimuli_G/4013.png
+4013,child,7.0,I,FALSE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_I/4013.png
+4013,child,7.0,R,TRUE,popcorn,,,1.0,2.0,../data/children/stimuli_R/4013.png
+4014,child,8.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,1,../data/children/stimuli_G/4014.png
+4014,child,8.0,I,TRUE,(smiley) face,,,2.0,2.0,../data/children/stimuli_I/4014.png
+4014,child,8.0,R,TRUE,ice cream cone,,,2.0,1.0,../data/children/stimuli_R/4014.png
+4015,child,8.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,0,../data/children/stimuli_G/4015.png
+4015,child,8.0,I,FALSE,hat,,,1.0,2.0,../data/children/stimuli_I/4015.png
+4015,child,8.0,R,TRUE,creature/monster,,,2.0,2.0,../data/children/stimuli_R/4015.png
+4016,child,9.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/4016.png
+4016,child,9.0,I,FALSE,milk karton,writing,,2.0,3.0,../data/children/stimuli_I/4016.png
+4016,child,9.0,R,FALSE,shopping bag,writing,,2.0,3.0,../data/children/stimuli_R/4016.png
+4017,child,7.0,G,TRUE,creature/monster,hands,,2.0,3,../data/children/stimuli_G/4017.png
+4017,child,7.0,I,FALSE,door,lines,,2.0,2.0,../data/children/stimuli_I/4017.png
+4017,child,7.0,R,FALSE,house,person(s),,2.0,2.0,../data/children/stimuli_R/4017.png
+4018,child,5.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,0,../data/children/stimuli_G/4018.png
+4018,child,5.0,I,FALSE,bug,lines,,1.0,3.0,../data/children/stimuli_I/4018.png
+4018,child,5.0,R,TRUE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_R/4018.png
+4019,child,5.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/4019.png
+4019,child,5.0,I,FALSE,bird,wings,,2.0,2.0,../data/children/stimuli_I/4019.png
+4019,child,5.0,R,TRUE,abstract doodle/hard to interpret,heart,,2.0,1.0,../data/children/stimuli_R/4019.png
+4020,child,6.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,0,../data/children/stimuli_G/4020.png
+4020,child,6.0,I,FALSE,bird,wings,,2.0,2.0,../data/children/stimuli_I/4020.png
+4020,child,6.0,R,FALSE,house,lines,door,2.0,2.0,../data/children/stimuli_R/4020.png
+4021,child,5.0,G,FALSE,(smiley) face,,,2.0,1,../data/children/stimuli_G/4021.png
+4021,child,5.0,I,FALSE,creature/monster,wings,teeth,2.0,2.0,../data/children/stimuli_I/4021.png
+4021,child,5.0,R,FALSE,house,animal,teeth,2.0,3.0,../data/children/stimuli_R/4021.png
+4022,child,8.0,G,FALSE,person(s),boat,hands,2.0,3,../data/children/stimuli_G/4022.png
+4022,child,8.0,I,FALSE,creature/monster,writing,,2.0,2.0,../data/children/stimuli_I/4022.png
+4022,child,8.0,R,TRUE,(smiley) face,,,2.0,2.0,../data/children/stimuli_R/4022.png
+4023,child,9.0,G,TRUE,completing,abstract doodle/hard to interpret,,2.0,0,../data/children/stimuli_G/4023.png
+4023,child,9.0,I,TRUE,completing,eye(s),,1.0,0.0,../data/children/stimuli_I/4023.png
+4023,child,9.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/4023.png
+4024,child,9.0,G,TRUE,abstract doodle/hard to interpret,heart,,2.0,1,../data/children/stimuli_G/4024.png
+4024,child,9.0,I,TRUE,toilet,,,2.0,4.0,../data/children/stimuli_I/4024.png
+4024,child,9.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/4024.png
+4025,child,6.0,G,FALSE,princess,hands,,2.0,3,../data/children/stimuli_G/4025.png
+4025,child,6.0,I,FALSE,lock,,,2.0,2.0,../data/children/stimuli_I/4025.png
+4025,child,6.0,R,TRUE,(smiley) face,,,2.0,2.0,../data/children/stimuli_R/4025.png
+4026,child,7.0,G,FALSE,creature/monster,feelers,hands,2.0,3,../data/children/stimuli_G/4026.png
+4026,child,7.0,I,FALSE,creature/monster,circles,,1.0,2.0,../data/children/stimuli_I/4026.png
+4026,child,7.0,R,TRUE,(smiley) face,lines,,1.0,2.0,../data/children/stimuli_R/4026.png
+5001,child,9.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,0,../data/children/stimuli_G/5001.png
+5001,child,9.0,I,FALSE,robot,hands,,2.0,2.0,../data/children/stimuli_I/5001.png
+5001,child,9.0,R,TRUE,robot,hands,,2.0,2.0,../data/children/stimuli_R/5001.png
+5002,child,6.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,1,../data/children/stimuli_G/5002.png
+5002,child,6.0,I,TRUE,person,,,2.0,2.0,../data/children/stimuli_I/5002.png
+5002,child,6.0,R,FALSE,abstract doodle/hard to interpret,lines,,2.0,1.0,../data/children/stimuli_R/5002.png
+5003,child,8.0,G,FALSE,abstract doodle/hard to interpret,circles,,1.0,2,../data/children/stimuli_G/5003.png
+5003,child,8.0,I,FALSE,bank,writing,door,2.0,3.0,../data/children/stimuli_I/5003.png
+5003,child,8.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/5003.png
+5004,child,8.0,G,TRUE,person,,,1.0,1,../data/children/stimuli_G/5004.png
+5004,child,8.0,I,TRUE,person,,,2.0,2.0,../data/children/stimuli_I/5004.png
+5004,child,8.0,R,FALSE,house,smoke,door,2.0,2.0,../data/children/stimuli_R/5004.png
+5009,child,7.0,G,FALSE,person(s),boat,,1.0,1,../data/children/stimuli_G/5009.png
+5009,child,7.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_I/5009.png
+5009,child,7.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_R/5009.png
+5010,child,7.0,G,FALSE,blank,,,2.0,10,../data/children/stimuli_G/5010.png
+5010,child,7.0,I,FALSE,salt shaker,writing,,2.0,2.0,../data/children/stimuli_I/5010.png
+5010,child,7.0,R,TRUE,blank,,,2.0,10.0,../data/children/stimuli_R/5010.png
+5011,child,8.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,1,../data/children/stimuli_G/5011.png
+5011,child,8.0,I,TRUE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_I/5011.png
+5011,child,8.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/5011.png
+5012,child,6.0,G,FALSE,abstract doodle/hard to interpret,circles,,2.0,0,../data/children/stimuli_G/5012.png
+5012,child,6.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/5012.png
+5012,child,6.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/5012.png
+5018,child,9.0,G,FALSE,creature/monster,,,1.0,2,../data/children/stimuli_G/5018.png
+5018,child,9.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_I/5018.png
+5018,child,9.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_R/5018.png
+5019,child,6.0,G,TRUE,person,,,2.0,3,../data/children/stimuli_G/5019.png
+5019,child,6.0,I,TRUE,person,hair,,2.0,2.0,../data/children/stimuli_I/5019.png
+5019,child,6.0,R,FALSE,completing,copying,,2.0,1.0,../data/children/stimuli_R/5019.png
+5020,child,9.0,G,TRUE,(smiley) face,writing,,2.0,2,../data/children/stimuli_G/5020.png
+5020,child,9.0,I,FALSE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_I/5020.png
+5020,child,9.0,R,TRUE,(smiley) face,writing,forwn,2.0,2.0,../data/children/stimuli_R/5020.png
+5021,child,6.0,G,TRUE,boat,,,1.0,2,../data/children/stimuli_G/5021.png
+5021,child,6.0,I,TRUE,person(s),,,2.0,2.0,../data/children/stimuli_I/5021.png
+5021,child,6.0,R,FALSE,completing,,,2.0,0.0,../data/children/stimuli_R/5021.png
+5027,child,7.0,G,FALSE,abstract doodle/hard to interpret,arc,,1.0,1,../data/children/stimuli_G/5027.png
+5027,child,7.0,I,TRUE,(smiley) face,arc,hair,2.0,2.0,../data/children/stimuli_I/5027.png
+5027,child,7.0,R,FALSE,house,arc,,2.0,2.0,../data/children/stimuli_R/5027.png
+5028,child,8.0,G,FALSE,mushroom,door,,2.0,2,../data/children/stimuli_G/5028.png
+5028,child,8.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/5028.png
+5028,child,8.0,R,FALSE,fire work,lines,,1.0,2.0,../data/children/stimuli_R/5028.png
+5029,child,8.0,G,FALSE,mushroom,,,2.0,2,../data/children/stimuli_G/5029.png
+5029,child,8.0,I,FALSE,bank,,,2.0,2.0,../data/children/stimuli_I/5029.png
+5029,child,8.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_R/5029.png
+6001,child,7.0,G,FALSE,mushroom,house,cricles,2.0,2,../data/children/stimuli_G/6001.png
+6001,child,7.0,I,FALSE,shopping bag,writing,,1.0,1.0,../data/children/stimuli_I/6001.png
+6001,child,7.0,R,TRUE,ice cream cone,(smiley) face,tongue,2.0,2.0,../data/children/stimuli_R/6001.png
+6002,child,9.0,G,FALSE,creature/monster,,,2.0,2,../data/children/stimuli_G/6002.png
+6002,child,9.0,I,FALSE,store,writing,,2.0,2.0,../data/children/stimuli_I/6002.png
+6002,child,9.0,R,TRUE,elevator,writing,,2.0,3.0,../data/children/stimuli_R/6002.png
+6003,child,8.0,G,FALSE,person,teeth,hands,2.0,3,../data/children/stimuli_G/6003.png
+6003,child,8.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/6003.png
+6003,child,8.0,R,TRUE,ice cream cone,lines,,2.0,3.0,../data/children/stimuli_R/6003.png
+6004,child,7.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/6004.png
+6004,child,7.0,I,FALSE,door,key,,2.0,2.0,../data/children/stimuli_I/6004.png
+6004,child,7.0,R,TRUE,person,tongue,hands,2.0,2.0,../data/children/stimuli_R/6004.png
+6005,child,7.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,1,../data/children/stimuli_G/6005.png
+6005,child,7.0,I,FALSE,house,smoke,door,2.0,2.0,../data/children/stimuli_I/6005.png
+6005,child,7.0,R,TRUE,person(s),,,2.0,3.0,../data/children/stimuli_R/6005.png
+6006,child,8.0,G,FALSE,abstract doodle/hard to interpret,circles,lines,2.0,1,../data/children/stimuli_G/6006.png
+6006,child,8.0,I,FALSE,house,plane,,2.0,3.0,../data/children/stimuli_I/6006.png
+6006,child,8.0,R,TRUE,creature/monster,hands,,2.0,3.0,../data/children/stimuli_R/6006.png
+6007,child,6.0,G,FALSE,house,person(s),,1.0,2,../data/children/stimuli_G/6007.png
+6007,child,6.0,I,FALSE,rocket,sun,stars,2.0,2.0,../data/children/stimuli_I/6007.png
+6007,child,6.0,R,TRUE,person,hands,,2.0,2.0,../data/children/stimuli_R/6007.png
+6008,child,8.0,G,FALSE,abstract doodle/hard to interpret,lines,,1.0,1,../data/children/stimuli_G/6008.png
+6008,child,8.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/6008.png
+6008,child,8.0,R,TRUE,flowers,,,2.0,2.0,../data/children/stimuli_R/6008.png
+6009,child,7.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/6009.png
+6009,child,7.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/6009.png
+6009,child,7.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/6009.png
+6010,child,8.0,G,FALSE,eye,,,1.0,1,../data/children/stimuli_G/6010.png
+6010,child,8.0,I,FALSE,swimming pool,,,2.0,3.0,../data/children/stimuli_I/6010.png
+6010,child,8.0,R,TRUE,house,door,,2.0,2.0,../data/children/stimuli_R/6010.png
+6011,child,6.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/6011.png
+6011,child,6.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/6011.png
+6011,child,6.0,R,TRUE,faces,completing,,2.0,1.0,../data/children/stimuli_R/6011.png
+6012,child,8.0,G,TRUE,person,flower,,2.0,3,../data/children/stimuli_G/6012.png
+6012,child,8.0,I,TRUE,rocket,star(s),writing,2.0,3.0,../data/children/stimuli_I/6012.png
+6012,child,8.0,R,TRUE,house,smoke,rain,2.0,3.0,../data/children/stimuli_R/6012.png
+6013,child,8.0,G,FALSE,blank,,,2.0,10,../data/children/stimuli_G/6013.png
+6013,child,8.0,I,FALSE,blank,,,2.0,10.0,../data/children/stimuli_I/6013.png
+6013,child,8.0,R,TRUE,house,door,,2.0,2.0,../data/children/stimuli_R/6013.png
+6014,child,7.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/6014.png
+6014,child,7.0,I,FALSE,house,smoke,door,2.0,2.0,../data/children/stimuli_I/6014.png
+6014,child,7.0,R,TRUE,creature/monster,hands,,2.0,3.0,../data/children/stimuli_R/6014.png
+6015,child,8.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,1,../data/children/stimuli_G/6015.png
+6015,child,8.0,I,FALSE,person,hands,buttons,2.0,3.0,../data/children/stimuli_I/6015.png
+6015,child,8.0,R,TRUE,rocket,star(s),planet,2.0,3.0,../data/children/stimuli_R/6015.png
+6016,child,8.0,G,FALSE,mushroom,house,dwarf,2.0,3,../data/children/stimuli_G/6016.png
+6016,child,8.0,I,FALSE,person,hands,,2.0,3.0,../data/children/stimuli_I/6016.png
+6016,child,8.0,R,TRUE,flower shop,writing,numbers,2.0,4.0,../data/children/stimuli_R/6016.png
+6017,child,6.0,G,FALSE,abstract doodle/hard to interpret,lines,,2.0,1,../data/children/stimuli_G/6017.png
+6017,child,6.0,I,FALSE,completing,circles,,2.0,0.0,../data/children/stimuli_I/6017.png
+6017,child,6.0,R,TRUE,completing,encircled,,2.0,0.0,../data/children/stimuli_R/6017.png
+6018,child,9.0,G,FALSE,mushroom,(smiley) face,circles,2.0,2,../data/children/stimuli_G/6018.png
+6018,child,9.0,I,FALSE,house,hearts,,2.0,2.0,../data/children/stimuli_I/6018.png
+6018,child,9.0,R,TRUE,house,up-side down,sun,2.0,3.0,../data/children/stimuli_R/6018.png
+6019,child,7.0,G,FALSE,abstract doodle/hard to interpret,writing,,2.0,0,../data/children/stimuli_G/6019.png
+6019,child,7.0,I,FALSE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_I/6019.png
+6019,child,7.0,R,TRUE,abstract doodle/hard to interpret,,,2.0,0.0,../data/children/stimuli_R/6019.png
+6020,child,8.0,G,FALSE,plane,,,2.0,3,../data/children/stimuli_G/6020.png
+6020,child,8.0,I,FALSE,helicopter,,,2.0,2.0,../data/children/stimuli_I/6020.png
+6020,child,8.0,R,FALSE,rocket,,,2.0,3.0,../data/children/stimuli_R/6020.png
+7001,child,9.0,G,TRUE,creature/monster,writing,,2.0,3,../data/children/stimuli_G/7001.png
+7001,child,9.0,I,FALSE,creature/monster,writing,,2.0,3.0,../data/children/stimuli_I/7001.png
+7001,child,9.0,R,FALSE,house,plane,writing,2.0,3.0,../data/children/stimuli_R/7001.png
+7002,child,8.0,G,FALSE,house,door,,2.0,2,../data/children/stimuli_G/7002.png
+7002,child,8.0,I,FALSE,ice cream cone,lines,,2.0,1.0,../data/children/stimuli_I/7002.png
+7002,child,8.0,R,TRUE,ice cream cone,lines,,2.0,1.0,../data/children/stimuli_R/7002.png
+7003,child,9.0,G,FALSE,person,sun,mushrom,2.0,4,../data/children/stimuli_G/7003.png
+7003,child,9.0,I,FALSE,alien,star(s),planets,2.0,3.0,../data/children/stimuli_I/7003.png
+7003,child,9.0,R,TRUE,mascot,ice cream cone,writing,2.0,4.0,../data/children/stimuli_R/7003.png
+7004,child,7.0,G,FALSE,abstract doodle/hard to interpret,circles,numbers,2.0,1,../data/children/stimuli_G/7004.png
+7004,child,7.0,I,FALSE,house,(smiley) face,,2.0,2.0,../data/children/stimuli_I/7004.png
+7004,child,7.0,R,TRUE,food,,,1.0,2.0,../data/children/stimuli_R/7004.png
+7005,child,6.0,G,FALSE,person,tongue,,2.0,2,../data/children/stimuli_G/7005.png
+7005,child,6.0,I,FALSE,preson,cloud(s),water,2.0,4.0,../data/children/stimuli_I/7005.png
+7005,child,6.0,R,TRUE,person,bees,,2.0,4.0,../data/children/stimuli_R/7005.png
+7006,child,9.0,G,FALSE,eye,lines,,2.0,2,../data/children/stimuli_G/7006.png
+7006,child,9.0,I,FALSE,popsicle,,,2.0,2.0,../data/children/stimuli_I/7006.png
+7006,child,9.0,R,TRUE,animal,(smiley) face,ears,2.0,3.0,../data/children/stimuli_R/7006.png
+7007,child,9.0,G,FALSE,creature/monster,teeth,,2.0,3,../data/children/stimuli_G/7007.png
+7007,child,9.0,I,FALSE,house,,,2.0,2.0,../data/children/stimuli_I/7007.png
+7007,child,9.0,R,FALSE,swimming pool,umbrella ,flower ,1.0,2.0,../data/children/stimuli_R/7007.png
+7009,child,8.0,G,FALSE,creature/monster,hat,,1.0,2,../data/children/stimuli_G/7009.png
+7009,child,8.0,I,TRUE,popsicle,,,2.0,2.0,../data/children/stimuli_I/7009.png
+7009,child,8.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/7009.png
+7010,child,7.0,G,FALSE,creature/monster,heart(s),,2.0,2,../data/children/stimuli_G/7010.png
+7010,child,7.0,I,FALSE,house ,wings,(smiley) face,2.0,3.0,../data/children/stimuli_I/7010.png
+7010,child,7.0,R,TRUE,fries,(smiley) face,,2.0,3.0,../data/children/stimuli_R/7010.png
+7011,child,9.0,G,FALSE,tree,,,2.0,2,../data/children/stimuli_G/7011.png
+7011,child,9.0,I,FALSE,alien,feelers,hands,2.0,3.0,../data/children/stimuli_I/7011.png
+7011,child,9.0,R,FALSE,house,wings,tree,2.0,4.0,../data/children/stimuli_R/7011.png
+7012,child,9.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/7012.png
+7012,child,9.0,I,FALSE,house,door,,2.0,2.0,../data/children/stimuli_I/7012.png
+7012,child,9.0,R,TRUE,castle,lines,flags,2.0,2.0,../data/children/stimuli_R/7012.png
+7013,child,7.0,G,FALSE,mushroom,cricles,,2.0,2,../data/children/stimuli_G/7013.png
+7013,child,7.0,I,FALSE,alien,feelers,,2.0,2.0,../data/children/stimuli_I/7013.png
+7013,child,7.0,R,FALSE,abstract doodle/hard to interpret,lines,,2.0,0.0,../data/children/stimuli_R/7013.png
+7014,child,7.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,0,../data/children/stimuli_G/7014.png
+7014,child,7.0,I,TRUE,abstract doodle/hard to interpret,,,2.0,1.0,../data/children/stimuli_I/7014.png
+7014,child,7.0,R,FALSE,creature/monster,,,1.0,0.0,../data/children/stimuli_R/7014.png
+7015,child,8.0,G,FALSE,completing,,,1.0,0,../data/children/stimuli_G/7015.png
+7015,child,8.0,I,TRUE,alien,feelers,,1.0,2.0,../data/children/stimuli_I/7015.png
+7015,child,8.0,R,FALSE,creature/monster,teeth,feelers,1.0,2.0,../data/children/stimuli_R/7015.png
+7016,child,6.0,G,FALSE,bug,wings,feelers,2.0,2,../data/children/stimuli_G/7016.png
+7016,child,6.0,I,FALSE,feelers,heart(s),wings,1.0,0.0,../data/children/stimuli_I/7016.png
+7016,child,6.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,0.0,../data/children/stimuli_R/7016.png
+7017,child,6.0,G,FALSE,creature/monster,knife,,2.0,2,../data/children/stimuli_G/7017.png
+7017,child,6.0,I,FALSE,house,,,1.0,1.0,../data/children/stimuli_I/7017.png
+7017,child,6.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,2.0,../data/children/stimuli_R/7017.png
+7018,child,8.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,1,../data/children/stimuli_G/7018.png
+7018,child,8.0,I,FALSE,creature/monster,,,2.0,2.0,../data/children/stimuli_I/7018.png
+7018,child,8.0,R,TRUE,abstract doodle/hard to interpret,,,1.0,1.0,../data/children/stimuli_R/7018.png
+7019,child,8.0,G,FALSE,creature/monster,ears,,2.0,2,../data/children/stimuli_G/7019.png
+7019,child,8.0,I,FALSE,creature/monster,ears,,2.0,2.0,../data/children/stimuli_I/7019.png
+7019,child,8.0,R,TRUE,creature/monster,ears,,2.0,2.0,../data/children/stimuli_R/7019.png
+7020,child,6.0,G,FALSE,creature/monster,,,2.0,2,../data/children/stimuli_G/7020.png
+7020,child,6.0,I,FALSE,creature/monster,writing,,2.0,2.0,../data/children/stimuli_I/7020.png
+7020,child,6.0,R,TRUE,creature/monster,ears,,2.0,2.0,../data/children/stimuli_R/7020.png
+7021,child,9.0,G,FALSE,completing,,,2.0,0,../data/children/stimuli_G/7021.png
+7021,child,9.0,I,FALSE,smiley (face),hat,,2.0,2.0,../data/children/stimuli_I/7021.png
+7021,child,9.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/7021.png
+7023,child,7.0,G,FALSE,abstract doodle/hard to interpret,cricles,,1.0,1,../data/children/stimuli_G/7023.png
+7023,child,7.0,I,FALSE,smiley (face),hat,,2.0,2.0,../data/children/stimuli_I/7023.png
+7023,child,7.0,R,TRUE,abstract doodle/hard to interpret,completing,,2.0,0.0,../data/children/stimuli_R/7023.png
+7024,child,7.0,G,FALSE,abstract doodle/hard to interpret,,,1.0,0,../data/children/stimuli_G/7024.png
+7024,child,7.0,I,FALSE,completing,,,2.0,0.0,../data/children/stimuli_I/7024.png
+7024,child,7.0,R,TRUE,creature/monster,,,2.0,2.0,../data/children/stimuli_R/7024.png
+7025,child,9.0,G,FALSE,abstract doodle/hard to interpret,,,2.0,1,../data/children/stimuli_G/7025.png
+7025,child,9.0,I,FALSE,creature/monster,wings,,2.0,2.0,../data/children/stimuli_I/7025.png
+7025,child,9.0,R,TRUE,creature/monster,teeth,,2.0,2.0,../data/children/stimuli_R/7025.png
+7026,child,7.0,G,FALSE,mushroom,circles,,2.0,2,../data/children/stimuli_G/7026.png
+7026,child,7.0,I,FALSE,popsicle,(smiley) face,heart(s),2.0,2.0,../data/children/stimuli_I/7026.png
+7026,child,7.0,R,FALSE,house,door,,2.0,2.0,../data/children/stimuli_R/7026.png
+7027,child,8.0,G,FALSE,abstract doodle/hard to interpret,lines,,1.0,1,../data/children/stimuli_G/7027.png
+7027,child,8.0,I,FALSE,popsicle,writing,,2.0,2.0,../data/children/stimuli_I/7027.png
+7027,child,8.0,R,TRUE,(smiley) face,,,2.0,2.0,../data/children/stimuli_R/7027.png
+7028,child,8.0,G,FALSE,creature/monster,teeth,,2.0,2,../data/children/stimuli_G/7028.png
+7028,child,8.0,I,FALSE,creature/monster,,,2.0,1.0,../data/children/stimuli_I/7028.png
+7028,child,8.0,R,TRUE,completing,,,2.0,0.0,../data/children/stimuli_R/7028.png

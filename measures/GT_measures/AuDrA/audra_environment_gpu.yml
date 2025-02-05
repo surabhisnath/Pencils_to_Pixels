@@ -1,0 +1,14 @@
+name: audra_gpu
+channels:
+  - nvidia
+  - defaults
+dependencies:
+  - pytorch::torchaudio
+  - pytorch::pytorch
+  - pytorch::pytorch-cuda=11.7
+  - pytorch::torchvision
+  - pandas
+  - python=3.10
+  - matplotlib
+  - conda-forge::pytorch-lightning
+  - scikit-learn
