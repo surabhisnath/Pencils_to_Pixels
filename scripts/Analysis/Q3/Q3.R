@@ -9,7 +9,6 @@
 # Imports
 
 {
-  setwd("./scripts/Analysis/Q3/")
   library(lme4)
   library(ggplot2)
   library(dplyr)
