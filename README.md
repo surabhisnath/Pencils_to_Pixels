@@ -9,7 +9,7 @@ Authors: [Surabhi S Nath](https://surabhisnath.github.io), [Guiomar del Cuvillo 
 
 Can we derive computational metrics to quantify visual creativity in drawings across intelligent agents, while accounting for inherent differences in technical skill and style? To answer this, we curate a novel dataset consisting of 1338 drawings by children, adults and AI on a creative drawing task. We characterize two aspects of the drawings -- (1) style and (2) content. For style, we define measures of ink density, ink distribution and number of elements. For content, we use expert-annotated categories to study conceptual diversity, and image and text embeddings to compute distance measures. We compare the style, content and creativity of children, adults and AI drawings and build simple models to predict expert and automated creativity scores. We find significant differences in style and content in the groups -- children's drawings had more components, AI drawings had greater ink density, and adult drawings revealed maximum conceptual diversity. Notably, we highlight a misalignment between creativity judgments obtained through expert and automated ratings and discuss its implications. Through these efforts, our work provides, to the best of our knowledge, the first framework for studying human and artificial creativity beyond the textual modality, and attempts to arrive at the domain-agnostic principles underlying creativity.
 
-![Graphical Abstract](figures/graphical_abstract.pdf.pdf)
+![Graphical Abstract](figures/graphical_abstract.pdf)
 
 ## Repository Description
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Running the code
 
-To reproduce the results from the paper, 
+To reproduce the results from the paper,
 
 1. Run Jupyter Lab as follows:
 
