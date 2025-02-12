@@ -49,21 +49,17 @@ To reproduce the results from the paper,
 jupyter-lab
 ```
 
-    and open the file`scripts/Analysis/Q1Q2/Q1Q2.ipynb` and run the file (either in one go or cell by cell).
-
-2. For running `scripts/Analysis/Q3/Q3.R`,
-
-- Ensure you have a working R installation
-- Install the required libraries
-  - *E.g.*, `install.packages(c("lme4", "ggplot2", "dplyr", "lmerTest"))` from an R console
-- Run `Q3.R` as follows:
+2. Open the file `scripts/Analysis/Q1Q2/Q1Q2.ipynb` and run the file (either in one go or cell by cell).
+3. For running `scripts/Analysis/Q3/Q3.R`,
+   - Ensure you have a working R installation
+   - Install the required libraries
+     - *E.g.*, `install.packages(c("lme4", "ggplot2", "dplyr", "lmerTest"))` from an R console
+4. Run `Q3.R` as follows (all plots are saved to `plots/` folder and tables are saved to `model_fits/`):
 
 ```R
 setwd('/path/to/Pencils_to_Pixels/scripts/Analysis/Q3/')
 source("Q3.R")
 ```
-
-    On running the file, all plots are saved to`plots/` folder and tables are saved to `model_fits/`.
 
 ## Citation
 
